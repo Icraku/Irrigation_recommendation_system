@@ -1,0 +1,917 @@
+@keyframes shadow-inset-center {
+  0% {
+    box-shadow: inset 0 0 0 0 transparent;
+  }
+  to {
+    box-shadow: inset 0 0 14px 0 rgb(0 0 0/50%);
+  }
+}
+.passionate-about-developing {
+  position: absolute;
+  top: 129px;
+  left: 18px;
+  display: inline-block;
+  width: 616px;
+  height: 54px;
+}
+.footer-child {
+  position: absolute;
+  top: 99.5px;
+  left: calc(50% - 591.5px);
+  border-top: 1px solid #000;
+  box-sizing: border-box;
+  width: 1162px;
+  height: 1px;
+}
+.want-help {
+  position: absolute;
+  top: 24px;
+  left: 0;
+  font-weight: 800;
+  display: inline-block;
+  width: 490px;
+  height: 35px;
+}
+.contact-us1 {
+  position: relative;
+  font-size: 16px;
+  font-weight: 800;
+  font-family: "SF Pro Text";
+  color: #fff;
+  text-align: left;
+}
+.contact-us {
+  cursor: pointer;
+  border: 0;
+  padding: 3.4448165893554688px 0;
+  background-color: #000;
+  position: absolute;
+  top: 44px;
+  left: 932px;
+  border-radius: 0 20px 20px 20px;
+  width: 186.76px;
+  height: 27.44px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  box-sizing: border-box;
+}
+.frame,
+.lets-talk {
+  position: absolute;
+  top: 0;
+}
+.lets-talk {
+  left: 0;
+  font-size: 20px;
+  font-weight: 300;
+}
+.frame {
+  left: 28px;
+  width: 1118.76px;
+  height: 71.44px;
+  overflow: hidden;
+  font-size: 43px;
+  color: #000;
+}
+.address,
+.our-company,
+.our-services {
+  position: absolute;
+  top: 0;
+  left: 367px;
+  font-size: 20px;
+  color: #000;
+}
+.address,
+.our-company {
+  left: 651px;
+}
+.address {
+  left: 954px;
+}
+.farm-specialists,
+.soil-testing-kits {
+  position: absolute;
+  top: 43px;
+  left: 367px;
+  font-weight: 600;
+}
+.farm-specialists {
+  top: 75px;
+}
+.dohpay-solutions {
+  margin: 0;
+}
+.dohpay-solutions-machandajeff-container {
+  position: absolute;
+  top: 37px;
+  left: 954px;
+  font-size: 12px;
+  font-weight: 600;
+  display: inline-block;
+  width: 210px;
+  height: 103px;
+}
+.report-a-bug,
+.terms-of-service {
+  position: absolute;
+  top: 41px;
+  left: 651px;
+  font-weight: 600;
+}
+.terms-of-service {
+  top: 74px;
+}
+.shamba-toolkit {
+  font-size: 32px;
+}
+.the-shamba-toolkit-container {
+  position: relative;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.agriculture-and-technology {
+  position: relative;
+  font-size: 11px;
+  color: #4b4b4b;
+}
+.logo {
+  top: 9px;
+  left: 0;
+  width: 283px;
+  height: 54px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3px;
+  font-size: 14px;
+  color: #000;
+}
+.footer,
+.frame1,
+.logo {
+  position: absolute;
+}
+.frame1 {
+  top: 252px;
+  left: 18px;
+  width: 1164px;
+  height: 140px;
+  overflow: hidden;
+  font-size: 15px;
+}
+.footer {
+  text-decoration: none;
+  top: 2252px;
+  left: 59px;
+  width: 1182px;
+  height: 392px;
+  color: #252525;
+}
+.input-child {
+  position: absolute;
+  top: 79.5px;
+  left: calc(50% - 586px);
+  border-top: 1px solid #000;
+  box-sizing: border-box;
+  width: 1170px;
+  height: 1px;
+}
+.the-irrigation-toolkit {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 563.5px);
+  font-weight: 800;
+}
+.input-your-data {
+  position: absolute;
+  top: 109px;
+  left: 17px;
+  font-size: 16px;
+  font-weight: 300;
+  font-family: "SF Pro Rounded";
+  display: inline-block;
+  width: 598px;
+}
+.proceed-to-generate {
+  position: relative;
+  font-size: 14px;
+  font-weight: 800;
+  font-family: "SF Pro Text";
+  color: #fff;
+  text-align: left;
+}
+.contact-us2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #000;
+  position: absolute;
+  top: 331px;
+  left: 807px;
+  border-radius: 0 20px 20px 20px;
+  width: 356px;
+  height: 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.enter-location,
+.enter-shamba-name {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 22px;
+}
+.enter-location {
+  top: 60.95px;
+}
+.frame-child {
+  border: 0;
+  background-color: #fafafa;
+  position: absolute;
+  top: 82.91px;
+  left: 0;
+  border-radius: 10px;
+  width: 230px;
+  height: 31.2px;
+}
+.enter-major-type,
+.enter-type-of,
+.others {
+  position: absolute;
+  top: 118.99px;
+  left: 0;
+  line-height: 22px;
+}
+.enter-major-type,
+.others {
+  top: 177.03px;
+}
+.others {
+  top: 235.08px;
+}
+.frame-child1,
+.frame-inner,
+.frame-item,
+.rectangle-input {
+  border: 0;
+  background-color: #fafafa;
+  position: absolute;
+  top: 140.95px;
+  left: 0;
+  border-radius: 10px;
+  width: 230px;
+  height: 31.2px;
+}
+.frame-child1,
+.frame-inner,
+.rectangle-input {
+  top: 199px;
+}
+.frame-child1,
+.rectangle-input {
+  top: 257.04px;
+}
+.frame-child1 {
+  top: 24.86px;
+}
+.enter-shamba-name-parent,
+.enter-size-of-shamba-parent {
+  position: absolute;
+  top: 61px;
+  left: 0;
+  width: 230px;
+  height: 288.24px;
+}
+.enter-size-of-shamba-parent {
+  left: 311px;
+}
+.enter-your-source {
+  position: absolute;
+  top: 0;
+  left: 5px;
+  line-height: 22px;
+}
+.enter-quality,
+.enter-water-availability,
+.others2 {
+  position: absolute;
+  top: 60.95px;
+  left: 5px;
+  line-height: 22px;
+}
+.enter-quality,
+.others2 {
+  top: 118.99px;
+}
+.others2 {
+  top: 177.03px;
+}
+.enter-your-source-of-water-parent {
+  position: absolute;
+  top: 61px;
+  left: 622px;
+  width: 230px;
+  height: 230.2px;
+}
+.enter-energy-source,
+.enter-water-storage {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  line-height: 22px;
+}
+.enter-water-storage {
+  top: 60.95px;
+}
+.frame-child11 {
+  border: 0;
+  background-color: #fafafa;
+  position: absolute;
+  top: 80.91px;
+  left: 0;
+  border-radius: 10px;
+  width: 230px;
+  height: 31.2px;
+}
+.enter-water-collectionharvest,
+.others3 {
+  position: absolute;
+  top: 118.99px;
+  left: 1px;
+  line-height: 22px;
+}
+.others3 {
+  top: 171.96px;
+}
+.frame-child12,
+.frame-child13,
+.frame-child14 {
+  border: 0;
+  background-color: #fafafa;
+  position: absolute;
+  top: 138.95px;
+  left: 0;
+  border-radius: 10px;
+  width: 230px;
+  height: 31.2px;
+}
+.frame-child13,
+.frame-child14 {
+  top: 197px;
+}
+.frame-child14 {
+  top: 22.86px;
+}
+.enter-energy-source-parent {
+  position: absolute;
+  top: 61px;
+  left: 933px;
+  width: 230px;
+  height: 228.2px;
+}
+.general,
+.other,
+.topography,
+.water {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 800;
+}
+.other,
+.topography,
+.water {
+  left: 307px;
+}
+.other,
+.water {
+  left: 616px;
+}
+.other {
+  left: 933px;
+}
+.general-parent {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  width: 1005px;
+  height: 29px;
+  text-align: center;
+  font-size: 24px;
+  color: #252525;
+  font-family: "SF Pro Text";
+}
+.contact-us-parent {
+  position: absolute;
+  top: 195px;
+  left: 8px;
+  width: 1163px;
+  height: 379.24px;
+  font-size: 13px;
+  font-family: Lato;
+}
+.input {
+  position: absolute;
+  top: 778px;
+  left: 60px;
+  width: 1171px;
+  height: 574.24px;
+  font-size: 42px;
+}
+.the-irrigation-solution {
+  position: absolute;
+  top: 0;
+  left: 401px;
+  font-size: 32px;
+  font-weight: 800;
+  text-align: left;
+}
+.solution-child {
+  position: absolute;
+  top: 57.5px;
+  left: calc(50% - 602.5px);
+  border-top: 1px solid #000;
+  box-sizing: border-box;
+  width: 1182px;
+  height: 1px;
+}
+.cart-26-icon {
+  position: absolute;
+  top: 0;
+  left: 1107.5px;
+  width: 57.5px;
+  height: 68px;
+}
+.this-is-the {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 300;
+}
+.fi-rr-search-icon,
+.frame2 {
+  position: absolute;
+  left: 0;
+  overflow: hidden;
+}
+.frame2 {
+  top: 89px;
+  width: 1165px;
+  height: 68px;
+  text-align: left;
+  font-family: "SF Pro Rounded";
+}
+.fi-rr-search-icon {
+  top: 7px;
+  width: 12px;
+  height: 11px;
+}
+.components,
+.get-quote {
+  position: absolute;
+  top: 0;
+  left: 122px;
+}
+.components {
+  left: 0;
+  font-size: 15px;
+  font-weight: 900;
+  color: #252525;
+}
+.frame3,
+.frame4 {
+  position: absolute;
+  top: 0;
+  left: 353px;
+  width: 190px;
+  height: 18px;
+  overflow: hidden;
+}
+.frame3 {
+  top: 177px;
+  left: 614px;
+  width: 543px;
+  font-size: 14px;
+  color: #4b4b4b;
+}
+.sprinkler-irrigation {
+  position: absolute;
+  top: 127px;
+  left: 0;
+  font-size: 48px;
+  font-weight: 900;
+  color: #000;
+  display: inline-block;
+  width: 254.01px;
+  height: 82.31px;
+}
+.these-components-distribute {
+  position: absolute;
+  top: 263px;
+  left: 19px;
+  font-size: 14px;
+  font-weight: 300;
+  display: inline-block;
+  width: 184px;
+  height: 101px;
+}
+.frame-child15,
+.frame-child16,
+.frame-child17,
+.rectangle-div {
+  position: absolute;
+  top: 59px;
+  left: 864px;
+  border-radius: 200px 0 0 200px;
+  background-color: #323232;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 254.75px;
+  height: 93.44px;
+}
+.frame-child15,
+.frame-child16,
+.frame-child17 {
+  top: 168px;
+  background-color: #d9d9d9;
+  width: 255px;
+  height: 83px;
+}
+.frame-child16,
+.frame-child17 {
+  top: 266px;
+  height: 72px;
+}
+.frame-child17 {
+  top: 353px;
+  height: 65px;
+}
+.sprinkler-heads-or {
+  position: absolute;
+  top: 97.63px;
+  left: 885.1px;
+  font-size: 15px;
+  font-weight: 900;
+  color: #fafafa;
+}
+.controller,
+.sprinkler-pipes,
+.sprinkler-valves {
+  position: absolute;
+  top: 192px;
+  left: 925px;
+  font-weight: 900;
+}
+.controller,
+.sprinkler-valves {
+  top: 284.4px;
+  left: 914px;
+}
+.controller {
+  top: 369.01px;
+  left: 979px;
+}
+.ellipse-div,
+.ellipse-icon {
+  position: absolute;
+  border-radius: 50%;
+}
+.ellipse-div {
+  top: 0;
+  left: 316px;
+  background-color: #fff;
+  width: 438px;
+  height: 438px;
+}
+.ellipse-icon {
+  top: 43px;
+  left: 360px;
+  width: 359px;
+  height: 359px;
+  object-fit: cover;
+}
+.fi-rr-search-icon1 {
+  position: absolute;
+  top: 10px;
+  left: 529px;
+  width: 12px;
+  height: 12px;
+  overflow: hidden;
+}
+.adopt-method1 {
+  position: relative;
+  font-size: 16px;
+  font-weight: 300;
+  font-family: "SF Pro Text";
+  color: #fafafa;
+  text-align: center;
+}
+.adopt-method {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #323232;
+  position: absolute;
+  top: 419px;
+  left: 448px;
+  border-radius: 50px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 174px;
+  height: 37px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frame5 {
+  position: absolute;
+  top: 229px;
+  left: 85px;
+  width: 1119px;
+  height: 456px;
+  overflow: hidden;
+  font-size: 20px;
+  color: #252525;
+}
+.line-div {
+  position: absolute;
+  top: 9px;
+  left: -0.5px;
+  border-top: 1px solid #000;
+  box-sizing: border-box;
+  width: 61.03px;
+  height: 1px;
+}
+.arrow-right-1-icon {
+  position: absolute;
+  top: 3.5px;
+  left: 62px;
+  width: 12px;
+  height: 12px;
+  overflow: hidden;
+}
+.frame6,
+.next-parent {
+  position: absolute;
+  top: 0;
+  left: 80.03px;
+  width: 74px;
+  height: 19px;
+}
+.frame6 {
+  top: 711px;
+  left: 590px;
+  width: 154.03px;
+  overflow: hidden;
+  color: #4b4b4b;
+}
+.solution {
+  position: absolute;
+  top: 1432px;
+  left: 37px;
+  width: 1204px;
+  height: 730px;
+  text-align: center;
+}
+.buttons-child,
+.buttons-child1,
+.buttons-inner,
+.buttons-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 15px;
+  background-color: #c4c4c4;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 53px;
+  height: 53px;
+}
+.buttons-child1,
+.buttons-inner,
+.buttons-item {
+  left: 71px;
+}
+.buttons-child1,
+.buttons-inner {
+  left: 141px;
+}
+.buttons-child1 {
+  left: 212px;
+}
+.agriculture-icon {
+  position: absolute;
+  top: 14px;
+  left: 13px;
+  width: 26px;
+  height: 25px;
+  overflow: hidden;
+}
+.rainbowcloud-icon {
+  position: absolute;
+  top: 10px;
+  left: 80px;
+  width: 34px;
+  height: 33px;
+}
+.fi-rr-list-icon,
+.fi-rs-raindrops-icon {
+  position: absolute;
+  top: 15px;
+  left: 156px;
+  width: 23px;
+  height: 23px;
+  overflow: hidden;
+}
+.fi-rr-list-icon {
+  top: 17px;
+  left: 229px;
+  width: 19px;
+  height: 19px;
+}
+.buttons {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 557px;
+  left: 9px;
+  width: 265px;
+  height: 53px;
+}
+.the-irrigation-toolkit1 {
+  position: absolute;
+  top: 399px;
+  left: 3px;
+  font-weight: 300;
+  font-family: "SF Pro Rounded";
+  display: inline-block;
+  width: 565px;
+}
+.frame1-child {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 719px;
+  height: 645px;
+  object-fit: cover;
+}
+.list-icon,
+.nav-icon {
+  position: absolute;
+  height: 102.5%;
+  width: 101.39%;
+  top: -1.25%;
+  right: -0.69%;
+  bottom: -1.25%;
+  left: -0.69%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.list-icon {
+  height: 40%;
+  width: 22.54%;
+  top: 30%;
+  right: 39.44%;
+  bottom: 30%;
+  left: 38.03%;
+}
+.nav-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 66px;
+  left: 1105px;
+  width: 72px;
+  height: 40px;
+}
+.nav-button:hover {
+  animation: 2s ease-in 0s infinite normal none shadow-inset-center;
+  opacity: 1;
+}
+.revolutionize-farming {
+  margin: 0;
+  font-weight: 800;
+}
+.the-irrigation-toolkit2 {
+  margin: 0;
+  font-weight: 900;
+}
+.revolutionize-farming-container {
+  margin: 0;
+  position: absolute;
+  top: 226px;
+  left: 1px;
+  font-size: 24px;
+  font-family: inherit;
+}
+.tutorial {
+  position: relative;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: "SF Pro Text";
+  color: #252525;
+  text-align: left;
+}
+.view-menu {
+  border-radius: 30px 30px 0 30px;
+  background-color: #fafafa;
+  width: 233px;
+  height: 46px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 44px;
+  box-sizing: border-box;
+  z-index: 0;
+}
+.play-icon {
+  position: absolute;
+  margin: 0 !important;
+  top: 11px;
+  left: 187px;
+  width: 24px;
+  height: 24px;
+  z-index: 1;
+}
+.view-menu-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 551px;
+  left: 944px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 233px;
+  height: 46px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame1-item {
+  position: absolute;
+  top: 219px;
+  left: 588px;
+  width: 312px;
+  height: 312px;
+  object-fit: cover;
+}
+.the-irrigation-toolkit-container {
+  align-self: stretch;
+  position: relative;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.logo1 {
+  position: absolute;
+  top: 48px;
+  left: 0;
+  width: 302px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3px;
+  font-size: 14px;
+}
+.frame11,
+.macbook-air-1 {
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: "SF Pro Text";
+}
+.frame11 {
+  position: absolute;
+  top: 7px;
+  left: 40px;
+  width: 1239px;
+  height: 645px;
+}
+.macbook-air-1 {
+  position: relative;
+  border-radius: 30px;
+  background-color: #d9d9d9;
+  width: 100%;
+  height: 2652px;
+}
+@media screen and (max-width: 960px) {
+  .frame1-child {
+    display: none;
+  }
+}
+@media screen and (max-width: 420px) {
+  .frame1-child {
+    display: none;
+  }
+}
